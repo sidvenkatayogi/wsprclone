@@ -1,6 +1,6 @@
 # Wispr Edit
 
-**Wispr Edit** is a voice-to-text application inspired by [Wispr Flow](https://www.wispr.ai/). It brings fast, accurate voice typing to any application on your computer and adds a powerful "Smart Edit" feature that lets you modify text using natural language voice commands.
+**Wispr Edit** is a voice-to-text application inspired by [Wispr Flow](https://www.wispr.ai/). It brings fast, accurate voice typing to any application on your computer and adds a "Smart Edit" feature that lets you modify text using natural language voice commands.
 
 ## Features
 
